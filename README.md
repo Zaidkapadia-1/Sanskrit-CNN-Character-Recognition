@@ -1,1 +1,0 @@
-# Sanskrit-CNN-Character-Recognition
